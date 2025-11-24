@@ -7,13 +7,12 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 ## 🧰 EQUIPMENTS REQUIRED
-```
+
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-```
 ---
 
 
@@ -37,7 +36,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 ---
 
 ## 🧪 PROCEDURE
-```
+
 1. Place the optical breadboard on a flat surface.
 2. Mount the He-Ne laser source securely onto the breadboard.
 3. Attach the laser to the fiber coupler mount, aligned with the laser exit.
@@ -48,7 +47,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 8. Adjust the fiber tip height to ~50 mm above the white sheet.
 9. Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
-```
+
 ---
 
 
